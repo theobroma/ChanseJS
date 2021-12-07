@@ -1,2 +1,4 @@
 node_modules/
 .env
+# dist folder
+/public
